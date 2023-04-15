@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="BFBAN logo" src="./logo.png" width="120px" style="border-radius: 50%;">
+  <img alt="BFBAN logo" src="https://github.com/BFBAN/exterior-design/blob/main/Materials/web-all.png" width="120px" style="border-radius: 50%;">
 </div>
 
 # BFBAN
